@@ -10,7 +10,7 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: #db7093;
 }
 
 .right {
@@ -38,5 +38,5 @@
 
 .profile_image {
   width: 500px;
-  height: auto;
+  height: 500px;
 }
